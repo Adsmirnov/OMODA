@@ -1,0 +1,54 @@
+h1{
+    color:lightblue;
+    font-size:70px;
+    font-weight: 900;
+    font-family: 'Inter', sans-serif;
+}
+
+
+.main{
+    color:grey;
+    font-family: 'Inter', sans-serif;
+}
+
+#main{
+    color:black;
+    font-size:16px;
+    font-family: 'Inter', sans-serif;
+}
+
+.model{
+    display:inline-block;
+    height:100px;
+    width:700px;
+}
+
+.tesla{
+    color:grey;
+    font-size:150px;
+    font-family: 'Inter', sans-serif;
+}
+
+.right{
+    float:right;
+}
+
+.photo{
+    background-image:"digest-omoda.jpg";
+}
+
+.item{
+    display:inline;
+    font-size: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.item:hover{
+    color:brown;
+}
+
+.item::first-letter{
+    font-size: 360px;
+    display:inline-block;
+}
